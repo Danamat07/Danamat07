@@ -31,11 +31,8 @@
 
 
 ## 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Danamat07&show_icons=true&locale=en" alt="Danamat07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danamat07&" alt="Danamat07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danamat07&show_icons=true&locale=en&layout=compact" alt="Danamat07" /></p>
-
-
+![Danamat07's Stats](https://github-readme-stats.vercel.app/api?username=Danamat07&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Danamat07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danamat07&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danamat07" alt="Danamat07" /></a></p>
