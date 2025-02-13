@@ -31,8 +31,6 @@
 
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danamat07&show_icons=true&locale=en" alt="danamat07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danamat07&" alt="danamat07" /></p>
 
 ## 🏆 GitHub Trophies
