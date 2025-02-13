@@ -34,5 +34,5 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Danamat07?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Danamat07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danamat07&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danamat07" alt="Danamat07" /></a></p>
+[//]: # (## 🏆 GitHub Trophies)
+[//]: # (<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danamat07" alt="Danamat07" /></a></p>)
