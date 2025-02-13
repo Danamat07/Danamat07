@@ -49,9 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
 </div>
-
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danamat07&show_icons=true&locale=en" alt="danamat07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danamat07&" alt="danamat07" /></p>
