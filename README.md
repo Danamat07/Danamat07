@@ -31,7 +31,10 @@
 
 
 ## 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danamat07&" alt="danamat07" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Danamat07&show_icons=true&locale=en" alt="Danamat07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Danamat07&" alt="Danamat07" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danamat07&show_icons=true&locale=en&layout=compact" alt="Danamat07" /></p>
+
 
 ## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Danamat07" alt="Danamat07" /></a></p>
