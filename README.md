@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danamat07&label=Profile%20views&color=0e75b6&style=flat" alt="danamat07" /> </p>
 
+🔭 I’m currently working on improving my skills in C# and diving into game development projects.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dana-maria-matei-b17282310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marydanamat@gmail.com) 
 
