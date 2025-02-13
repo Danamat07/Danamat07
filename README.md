@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dana</h1>
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=danamat07&label=Profile%20views&color=0e75b6&style=flat" alt="danamat07" /> </p>
-
   - 🔭 I'm currently learning about Cybersecurity in Automotive at Cyberlifehacks.
   - ⚡ Fun fact: I’m working on improving my skills in C# and diving into game development projects.
 
