@@ -6,7 +6,8 @@
 
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
-  - 🔭 I'm currently working on improving my skills in C# and diving into game development projects.
+  - 💡 I'm currently learning about Cyber Security at Ciberlifehacks
+  - 👯 I’m looking to collaborate on any kind of projects
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
@@ -16,7 +17,7 @@
   <a href="https://linkedin.com/in/dana-maria-matei-b17282310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
-
+      
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
