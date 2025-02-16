@@ -8,6 +8,7 @@
 
   - 💡 I'm currently learning about Cyber Security at Ciberlifehacks
   - 👯 I’m looking to collaborate on any kind of projects
+  - ⚡ I enjoy exploring new technologies and acquiring diverse skills in my spare time.
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
