@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dana</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dana!;" />
+</h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Danamat07.Danamat07" />
+
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
   - 🔭 I'm currently working on improving my skills in C# and diving into game development projects.
@@ -6,8 +11,9 @@
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dana-maria-matei-b17282310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marydanamat@gmail.com) 
 
-## Languages and Tools
-<div align="left">
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
