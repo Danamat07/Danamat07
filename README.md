@@ -8,8 +8,14 @@
 
   - 🔭 I'm currently working on improving my skills in C# and diving into game development projects.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dana-maria-matei-b17282310) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marydanamat@gmail.com) 
+<h2 align="center"> How to reach me </h2>
+<div align="center"> 
+  <a href="mailto:marydanamat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/dana-maria-matei-b17282310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
