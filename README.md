@@ -6,7 +6,7 @@
 
   - 🔭 I'm currently doing an internship in Cyber Security at Ciberlifehacks.
   - 💡 I enjoy exploring new technologies and acquiring diverse skills in my spare time.
-  - 🌱 I'm currently working on an appointment booking application using .NET framework features
+  - 🌱 I'm currently working on an appointment booking windows application using .NET framework features
   - 👯 I’m looking to collaborate on any kind of projects.
 
 <h2 align="center"> How to reach me </h2>
