@@ -4,9 +4,10 @@
 
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
-  - 💡 I'm currently doing an internship in Cyber Security at Ciberlifehacks
-  - 👯 I’m looking to collaborate on any kind of projects
-  - ⚡ I enjoy exploring new technologies and acquiring diverse skills in my spare time.
+  - 🔭 I'm currently doing an internship in Cyber Security at Ciberlifehacks.
+  - 💡 I enjoy exploring new technologies and acquiring diverse skills in my spare time.
+  - 🌱 I'm currently working on an appointment booking application using .NET framework features
+  - 👯 I’m looking to collaborate on any kind of projects.
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
