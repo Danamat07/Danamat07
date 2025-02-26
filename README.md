@@ -38,5 +38,5 @@
 
 
 ## GitHub Stats:
-![Danamat07's Stats](https://github-readme-stats.vercel.app/api?username=Danamat07&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Danamat07?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Danamat07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danamat07&theme=default&show_icons=true&hide_border=true&layout=compact)
