@@ -5,7 +5,6 @@
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
   - 🔭 I'm currently doing an internship in Cyber Security at Ciberlifehacks.
-  - 🌱 I'm currently working on an appointment booking windows application using .NET framework features.
   - 💡 I enjoy exploring new technologies and acquiring diverse skills in my spare time.
   - 👯 I’m looking to collaborate on any kind of projects.
 
