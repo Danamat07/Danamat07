@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
 </div>
 
-
+---
 ## GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Danamat07?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
 ![Danamat07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danamat07&theme=default&show_icons=true&hide_border=true&layout=compact)
