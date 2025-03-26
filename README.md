@@ -4,9 +4,10 @@
 
 <h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
-  - 🌱 I'm currently learning JavaScript, HTML and CSS.
+  - 🌱 I'm currently learning some web development.
   - 💡 I enjoy exploring new technologies and acquiring diverse skills in my spare time.
   - 👯 I’m looking to collaborate on any kind of projects.
+  - 🚀 **Check out my portfolio website:** [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
