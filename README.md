@@ -5,7 +5,7 @@
 <h3 align="center">2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 <h3 align="center">Aspiring Full-Stack Developer | Tech Enthusiast | Future Innovator</h3>
 
-  - Currently learning: Web Development (React.js, Node.js & Node.js).
+  - Currently learning: Web Development (React.js, Next.js & Node.js).
   - Passionate about: Turning ideas into reality through tech.
   - I enjoy exploring new technologies and acquiring diverse skills in my spare time.
   - I’m looking to collaborate on any kind of projects.
