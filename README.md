@@ -2,12 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Dana!;" />
 </h1>
 
-<h3 align="center">I'm a 2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
+<h3 align="center">2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Tech Enthusiast | Future Innovator</h3>
 
-  - 🌱 I'm currently learning some web development.
-  - 💡 I enjoy exploring new technologies and acquiring diverse skills in my spare time.
-  - 👯 I’m looking to collaborate on any kind of projects.
-  - 🚀 **Check out my portfolio website:** [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
+  - Currently learning: Web Development (React.js, Node.js & Node.js).
+  - Passionate about: Turning ideas into reality through tech.
+  - I enjoy exploring new technologies and acquiring diverse skills in my spare time.
+  - I’m looking to collaborate on any kind of projects.
+  - **Check out my portfolio website:** [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
@@ -35,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
 </div>
 
