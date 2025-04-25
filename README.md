@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
-<h3 align="center">Aspiring Full-Stack Developer | Tech Enthusiast | Future Innovator</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
   - Currently learning: Web Development (React.js, Next.js & Node.js).
   - Passionate about: Turning ideas into reality through tech.
