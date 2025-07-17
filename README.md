@@ -7,7 +7,7 @@
   - Passionate about: Turning ideas into reality through tech.
   - I enjoy exploring new technologies and acquiring diverse skills in my spare time.
   - I’m looking to collaborate on any kind of projects.
-  - **Check out my portfolio website:** [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
+  - **Check out my portfolio website**: [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
