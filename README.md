@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Dana!;" />
 </h1>
 
-<h3 align="center">2nd year Computer Science student at Babes-Bolyai University, from Romania</h3>
+<h3 align="center">3rd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
   - Passionate about: Turning ideas into reality through tech.
   - I enjoy exploring new technologies and acquiring diverse skills in my spare time.
