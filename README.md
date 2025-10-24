@@ -7,7 +7,6 @@
   - Passionate about: Turning ideas into reality through tech.
   - I enjoy building apps end-to-end and collaborating on team projects.
   - Constantly experimenting with new frameworks, tools, and libraries.
-  - Check out my portfolio website: [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
