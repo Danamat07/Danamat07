@@ -4,7 +4,7 @@
 
 <h3 align="center">3rd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
-  - Passionate about: Turning ideas into reality through tech.
+  - Passionate about turning ideas into reality through tech.
   - I enjoy building apps end-to-end and collaborating on team projects.
   - Constantly experimenting with new frameworks, tools, and libraries.
   - Currently exploring AI and Android development.
