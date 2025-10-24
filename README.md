@@ -5,8 +5,9 @@
 <h3 align="center">3rd year Computer Science student at Babes-Bolyai University, from Romania</h3>
 
   - Passionate about: Turning ideas into reality through tech.
-  - I enjoy exploring new technologies and acquiring diverse skills in my spare time.
-  - **Check out my portfolio website**: [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
+  - I enjoy building apps end-to-end and collaborating on team projects.
+  - Constantly experimenting with new frameworks, tools, and libraries.
+  - Check out my portfolio website: [danamat07.github.io/Portfolio-Website/](https://danamat07.github.io/Portfolio-Website/) 
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
