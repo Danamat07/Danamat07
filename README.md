@@ -7,7 +7,7 @@
   - Passionate about turning ideas into reality through tech.
   - I enjoy building apps end-to-end and collaborating on team projects.
   - Constantly experimenting with new frameworks, tools, and libraries.
-  - Currently exploring AI and Android development.
+  - Currently exploring machine learning and Android development.
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
