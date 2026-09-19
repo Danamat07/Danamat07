@@ -2,12 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋+I'm+Dana!;" />
 </h1>
 
-<h3 align="center">Computer Science student | Babes-Bolyai University</h3>
+<h3 align="center">Computer Science | Babes-Bolyai University</h3>
 
   - Passionate about turning ideas into reality through tech.
   - I enjoy building apps end-to-end and collaborating on team projects.
   - Constantly experimenting with new frameworks, tools, and libraries.
-  - Currently exploring machine learning and computer vision
 
 <h2 align="center"> How to reach me </h2>
 <div align="center"> 
